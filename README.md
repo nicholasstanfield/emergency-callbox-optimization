@@ -20,6 +20,8 @@ In order to better understand the business problem, we contacted the McGill Secu
 
 The model achieved a **61.2% demand point coverage** for **$251,000 CAD**, installing 15 new phones and replacing six old phones. One important note here is that due to the construction of the night route map it is impossible to cover more than 75% of all demand points. Overall, this gave the security team a clear capital cost for an emergency callbox overhaul and could be weighed up against other competing upgrades/improvements in their budget meetings. Another recommendation as a result of this project was to alter the night route away from streets (such as Park Ave) which lack McGill buildings, and therefore options to install callboxes on, and instead keep the route going by more McGill buildings such as Durocher.
 
+![Results](data/callbox_results.png)
+
 ## Team
 
 Rui Zhao, Serena Sun, Arantzazu Arregui Gonzalez, Chloee Liew, Nicholas Stanfield
